@@ -1,0 +1,11 @@
+{
+  "name": "call-external-api",
+  "version": "1.0.0",
+  "description": "Get api to get details",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Priya",
+  "license": "ISC"
+}
